@@ -4,7 +4,7 @@ Version control is a system that records changes to a file or set of files over 
 
 Tracking Changes:
 Commit: A snapshot of your project at a specific point in time. Each commit has a unique identifier and includes a message describing the changes.
-Repository: A database that stores all the commits and the complete history of changes1.
+Repository: A database that stores all the commits and the complete history of changes.
 Branching and Merging:
 Branch: A parallel version of the repository. You can create a branch to work on a new feature without affecting the main codebase.
 Merge: Combining changes from different branches into one. This is essential for integrating new features or bug fixes.
@@ -122,7 +122,7 @@ Advantages:
 
 Open Collaboration: Encourages contributions from a wide range of developers, fostering a diverse and vibrant community.
 Increased Visibility: Projects can gain more attention and support from the open-source community.
-Free for Unlimited Repositories: GitHub offers unlimited public repositories for free, making it cost-effective1.
+Free for Unlimited Repositories: GitHub offers unlimited public repositories for free, making it cost-effective.
 Disadvantages:
 
 Security Risks: Sensitive data and proprietary code are exposed to the public, which can lead to security vulnerabilities.
